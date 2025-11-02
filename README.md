@@ -10,3 +10,5 @@
 - Completar `provision-db.sh` para instalar PostgreSQL.
 - Crear una base de datos y tabla.
 - Conectar la página PHP a la base de datos y mostrar datos.
+
+
